@@ -1,12 +1,10 @@
-
-
 :root {
   --primaryColor: #fff;
   --navColor1: #21292c;
-  --navColor2: #aa3e39;
-  --navColor3: #aa6e39;
-  --navColor4: #236267;
-  --navColor5: #2c8437;
+  --navColor2: rgb(18, 36, 151);
+  --navColor3: rgb(52, 62, 126);
+  --navColor4: rbg(107, 41, 121);
+  --navColor5: rgb(184, 168, 59);
 }
 
 html {
@@ -16,12 +14,9 @@ html {
 body {
   margin: 0;
   background: #000;
-
 }
 
 /* --- Navigation Menu ------------------------------ */
-
-
 
 /* --- Menu Bars ------------------------------------ */
 
